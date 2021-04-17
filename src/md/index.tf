@@ -10,7 +10,7 @@
 	{{topnav}}
 	<div class="body" style="text-align: center;">
 		<p >
-			<img src="../img/nobg.png" class="HomeMalil" />
+			<img src="./public/img/nobg.png" class="HomeMalil" />
 		</p>
 		{{input}}
 		<blockquote>
