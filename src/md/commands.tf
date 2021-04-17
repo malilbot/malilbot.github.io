@@ -27,7 +27,7 @@
 
 <!--This is a auto generated page to change the contents of this edit the command files themself-->
 
-### FOR A SHORTER LIST VISIT [THIS](/commands/list)
+### FOR A SHORTER LIST VISIT [THIS](/list)
 
 Prefixes: malil, \@malil, \*(can be changed).  
 Messages are cached for 10 seconds and editing them within that time can make a command trigger.
