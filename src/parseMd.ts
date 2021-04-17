@@ -5,18 +5,18 @@ import { green, blue, cyan } from "chalk";
 import Showdown from "showdown";
 const showdown = new Showdown.Converter();
 showdown.setFlavor("github");
-const topnav = readFileSync(join(__dirname, "global", "topnav.as"), "utf-8");
-const head = readFileSync(join(__dirname, "global", "head.as"), "utf-8");
+const topnav = readFileSync(join(__dirname, "global", "topnav.html"), "utf-8");
+const head = readFileSync(join(__dirname, "global", "head.html"), "utf-8");
 const breef = "Malil general-purpose bot with Slash-Commands";
 
 const compiler = new (class Compiler {
 	scssdir: string;
-	tfdir: string;
+	mddir: string;
 	cssdir: string;
 	htmldir: string;
-	constructor({ scss, tf, css, html }: { scss: string; tf: string; css: string; html: string }) {
+	constructor({ scss, md, css, html }: { scss: string; md: string; css: string; html: string }) {
 		this.scssdir = scss;
-		this.tfdir = tf;
+		this.mddir = md;
 		this.cssdir = css;
 		this.htmldir = html;
 	}
@@ -30,12 +30,12 @@ const compiler = new (class Compiler {
 		}
 	}
 	async compileTf() {
-		for (const file of readdirSync(join(this.tfdir)).filter((file) => file.endsWith(".tf"))) {
+		for (const file of readdirSync(join(this.mddir)).filter((file) => file.endsWith("md"))) {
 			console.time(blue(file));
-			const html = readFileSync(join(this.tfdir, file), "utf-8").split("{!")[0];
-			const md = readFileSync(join(this.tfdir, file), "utf-8").split("{!")[1];
+			const html = readFileSync(join(this.mddir, file), "utf-8").split("{!")[0];
+			const md = readFileSync(join(this.mddir, file), "utf-8").split("{!")[1];
 			const converted = showdown.makeHtml(md);
-			const dir = join(this.htmldir, file.replace(".tf", ".html"));
+			const dir = join(this.htmldir, file.replace(".md", ".html"));
 
 			const out = html
 				.replace("{{input}}", converted)
@@ -46,7 +46,7 @@ const compiler = new (class Compiler {
 
 				.replace("{{breef}}", breef)
 
-				.replace("{{title}}", file.replace(".tf", ""));
+				.replace("{{title}}", file.replace("md", ""));
 
 			writeFileSync(dir, out);
 			console.timeEnd(blue(file));
@@ -60,7 +60,7 @@ const compiler = new (class Compiler {
 	}
 })({
 	scss: join(__dirname, "scss"),
-	tf: join(__dirname, "md"),
+	md: join(__dirname, "md"),
 	css: join(__dirname, "..", "public", "css"),
 	html: join(__dirname, ".."),
 });

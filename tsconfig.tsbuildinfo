@@ -227,7 +227,7 @@
         "affectsGlobalScope": false
       },
       "./src/parseMd.ts": {
-        "version": "ed8b42ffda1f9b8ec9092a342b1fdd4d02edb220a9e550a5043f3f522d1b1831",
+        "version": "60269b23c691b7d8009ed1caabb0c5c4c311333fe925e59ccef9037ab6137d12",
         "signature": "8e609bb71c20b858c77f0e9f90bb1319db8477b13f9f965f1a1e18524bf50881",
         "affectsGlobalScope": false
       },
