@@ -15,7 +15,7 @@
 		<a href="#moderation">Moderation</a>
 		<a href="#utility">Utility</a>
 		<p >
-			<img src="../img/nobg.png" class="CommandsMalil" />
+			<img src="./public/img/nobg.png" class="CommandsMalil" />
 		</p>
 	</div>
 	<div class="body">{{input}}</div>
