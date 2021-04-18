@@ -9,7 +9,7 @@
 	background-color: #222428;
 	overflow-x: hidden;
 	padding-top: 0%;
-
+	animation: slideInLeft 0.3s ease-in-out;
 	a {
 		transition: 500ms linear;
 		top: 60%;

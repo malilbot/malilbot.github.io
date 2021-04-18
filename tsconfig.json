@@ -8,6 +8,7 @@
         "strictBindCallApply": false,
         "strictFunctionTypes": false,
         "strictPropertyInitialization": false,
+     //   "outDir": "dist",
         "module": "commonjs",
         "target": "ESNext",
         "lib": [
@@ -26,22 +27,11 @@
         "esModuleInterop": true,
         "inlineSourceMap": true,
         "emitDecoratorMetadata": true,
-        "importHelpers": true,
+        "importHelpers": false,
         "forceConsistentCasingInFileNames": true,
         "experimentalDecorators": true,
         "baseUrl": "./",
-        "paths": {
-            "@lib/*": [
-                "src/Lib/*"
-            ],
-            "@root/*": [
-                "src/*"
-            ]
-        }
     },
-    "include": [
-        "src/**/*",
-    ],
     "exclude": [
         "node_modules"
     ]

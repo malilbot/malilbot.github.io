@@ -4,26 +4,28 @@ $border: hsl(0, 0%, 24%);
 $white: hsl(0, 0%, 95%);
 $navborder: hsl(0, 0%, 24%);
 $navbg: hsl(0, 0%, 20%);
-@import url("https://fonts.googleapis.com/css?family=Comfortaa");
+@import url('https://fonts.googleapis.com/css?family=Comfortaa');
 
-@import "styles/device";
+@import 'styles/device';
 
-@import "styles/sidenav";
+@import 'styles/sidenav';
 
-@import "styles/body";
+@import 'styles/animate';
 
-@import "styles/quote";
+@import 'styles/body';
 
-@import "styles/link";
+@import 'styles/quote';
 
-@import "styles/h";
+@import 'styles/link';
 
-@import "styles/footer";
+@import 'styles/h';
 
-@import "styles/topnav";
+@import 'styles/footer';
 
-@import "styles/tables";
+@import 'styles/topnav';
 
-@import "styles/image";
+@import 'styles/tables';
 
-@import "styles/details";
+@import 'styles/image';
+
+@import 'styles/details';

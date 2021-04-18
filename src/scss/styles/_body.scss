@@ -1,5 +1,12 @@
 :root {
-	--gradient: linear-gradient(45deg, hsl(0, 0%, 11%), hsl(0, 1%, 13%), hsl(0, 2%, 16%), hsl(0, 1%, 13%), hsl(0, 0%, 11%));
+	--gradient: linear-gradient(
+		45deg,
+		hsl(0, 0%, 11%),
+		hsl(0, 1%, 13%),
+		hsl(0, 2%, 16%),
+		hsl(0, 1%, 13%),
+		hsl(0, 0%, 11%)
+	);
 }
 //45deg, $background, hsl(0, 0%, 11%), hsl(0, 1%, 13%), hsl(0, 2%, 16%), hsl(0, 3%, 19%)
 
@@ -22,6 +29,7 @@ body {
 }
 
 .body {
+	animation: slideInUp 0.3s ease-in-out;
 	background-color: hsl(220, 8%, 15%);
 	width: 60%;
 	padding: 1rem;

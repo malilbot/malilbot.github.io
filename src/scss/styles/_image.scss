@@ -2,10 +2,6 @@
 	max-width: 80%;
 	height: auto;
 	transition: 500ms linear;
-	&:hover {
-		animation: moveToRight 10s ease-in-out;
-		animation-timing-function: ease;
-	}
 }
 
 .HomeMalil {
