@@ -153,11 +153,11 @@
 :root {
   --gradient: linear-gradient(
   	45deg,
-  	hsl(0, 0%, 11%),
-  	hsl(0, 1%, 13%),
-  	hsl(0, 2%, 16%),
-  	hsl(0, 1%, 13%),
-  	hsl(0, 0%, 11%)
+  	hsl(10, 0%, 11%),
+  	hsl(5, 3%, 17%),
+  	hsl(1, 7%, 26%),
+  	hsl(5, 3%, 17%),
+  	hsl(10, 0%, 11%)
   );
 }
 
@@ -169,6 +169,10 @@ body {
 }
 
 body {
+  scrollbar-width: thin;
+  /* "auto" or "thin" */
+  scrollbar-color: #3d3d3d #232529;
+  /* scroll thumb and track */
   scroll-padding-top: 1em;
   scroll-behavior: smooth;
   font-family: Comfortaa;
@@ -205,13 +209,6 @@ body::-webkit-scrollbar-thumb {
   /* roundness of the scroll thumb */
   border: 3px solid #232529;
   /* creates padding around scroll thumb */
-}
-
-body {
-  scrollbar-width: thin;
-  /* "auto" or "thin" */
-  scrollbar-color: #3d3d3d #232529;
-  /* scroll thumb and track */
 }
 
 blockquote {
