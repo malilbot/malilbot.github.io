@@ -2,8 +2,8 @@
 	border: 1px solid $border;
 	justify-content: center;
 	top: 6em;
-	height: 30em;
-	width: 9%;
+	height: 35em;
+	width: 13%;
 	position: fixed;
 	z-index: 1;
 	background-color: #222428;
@@ -13,11 +13,12 @@
 	a {
 		transition: 500ms linear;
 		top: 60%;
-		padding: 3% 10% 5% 4%;
+		padding: 4% 10% 5% 4%;
 		text-decoration: none;
 		font-size: 20px;
 		color: #818181;
-		display: block;
+		margin: 2 auto;
+		display: flex;
 		.main {
 			margin-left: 10%;
 			padding: 0px 3%;

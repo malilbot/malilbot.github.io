@@ -27,8 +27,8 @@
   border: 1px solid #3d3d3d;
   justify-content: center;
   top: 6em;
-  height: 30em;
-  width: 9%;
+  height: 35em;
+  width: 13%;
   position: fixed;
   z-index: 1;
   background-color: #222428;
@@ -39,11 +39,12 @@
 .sidenav a {
   transition: 500ms linear;
   top: 60%;
-  padding: 3% 10% 5% 4%;
+  padding: 4% 10% 5% 4%;
   text-decoration: none;
   font-size: 20px;
   color: #818181;
-  display: block;
+  margin: 2 auto;
+  display: flex;
 }
 .sidenav a .main {
   margin-left: 10%;
@@ -186,6 +187,32 @@ body {
   padding: 1rem;
   border: 1px solid #3d3d3d;
   margin: auto;
+}
+
+body::-webkit-scrollbar {
+  width: 12px;
+  /* width of the entire scrollbar */
+}
+
+body::-webkit-scrollbar-track {
+  background: #232529;
+  /* color of the tracking area */
+}
+
+body::-webkit-scrollbar-thumb {
+  background-color: #171717;
+  /* color of the scroll thumb */
+  border-radius: 20px;
+  /* roundness of the scroll thumb */
+  border: 3px solid #232529;
+  /* creates padding around scroll thumb */
+}
+
+body {
+  scrollbar-width: thin;
+  /* "auto" or "thin" */
+  scrollbar-color: #3d3d3d #232529;
+  /* scroll thumb and track */
 }
 
 blockquote {
