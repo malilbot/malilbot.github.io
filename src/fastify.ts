@@ -1,7 +1,8 @@
-import Fastify, { FastifyInstance } from 'fastify';
+import Fastify from 'fastify';
 const fastify = Fastify({ logger: false });
 import { readFileSync } from 'fs';
 import { join } from 'path';
+import { green } from 'chalk';
 import './parseMd';
 const port = 3000;
 fastify.register(import('fastify-static'), {
@@ -41,4 +42,7 @@ fastify.get('/info', (req, res) => {
 	const bufferIndexHtml = readFileSync(join(__dirname, '..', 'info.html'));
 	res.type('text/html').send(bufferIndexHtml);
 });
-fastify.listen(port, '0.0.0.0', () => console.log('http://localhost:' + port));
+console.time(green(`http://localhost:${port} `));
+fastify.listen(port, '0.0.0.0', () =>
+	console.timeEnd(green(`http://localhost:${port} `))
+);
