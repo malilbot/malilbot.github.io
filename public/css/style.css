@@ -353,6 +353,9 @@ details {
   border-radius: 3px;
   background: #2c3035;
 }
+details:hover {
+  cursor: text;
+}
 details summary {
   font-size: 17px;
   vertical-align: top;
@@ -361,6 +364,9 @@ details summary {
   border-radius: 3px;
   padding: 5px 10px;
   outline: none;
+}
+details summary:hover {
+  cursor: pointer;
 }
 details [open] summary {
   background: #333333;

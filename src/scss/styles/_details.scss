@@ -2,6 +2,9 @@ details {
 	padding: 0.2em;
 	border-radius: 3px;
 	background: #2c3035;
+	&:hover {
+		cursor: text;
+	}
 	summary {
 		font-size: 17px;
 		vertical-align: top;
@@ -10,6 +13,9 @@ details {
 		border-radius: 3px;
 		padding: 5px 10px;
 		outline: none;
+		&:hover {
+			cursor: pointer;
+		}
 	}
 	[open] summary {
 		background: $navbg;
