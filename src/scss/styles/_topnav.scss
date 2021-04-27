@@ -1,13 +1,12 @@
 .topnav {
-	width: 99%;
-	padding: 0.1rem;
-	border: 0.01rem solid $white;
+	width: 100%;
 	margin: auto;
+	position: sticky;
 	background-color: $navbg;
 	overflow: hidden;
 	a {
 		float: left;
-		color: $white;
+		color: $gray;
 		text-align: center;
 		padding: 14px 16px;
 		text-decoration: none;

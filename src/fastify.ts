@@ -32,6 +32,10 @@ fastify.get('/credits', (req, res) => {
 	const bufferIndexHtml = readFileSync(join(__dirname, '..', 'credit.html'));
 	res.type('text/html').send(bufferIndexHtml);
 });
+fastify.get('/list', (req, res) => {
+	const bufferIndexHtml = readFileSync(join(__dirname, '..', 'list.html'));
+	res.type('text/html').send(bufferIndexHtml);
+});
 fastify.get('/patchnotes', (req, res) => {
 	const bufferIndexHtml = readFileSync(
 		join(__dirname, '..', 'patchnotes.html')

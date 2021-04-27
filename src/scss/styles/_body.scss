@@ -37,10 +37,9 @@ body {
 	box-shadow: 2px 2px 2px #999;
 	animation: slideInUp 0.3s ease-in-out;
 	background-color: hsl(220, 8%, 15%);
-	width: 60%;
+	width: 85%;
 	padding: 1rem;
-	border: 1px solid $border;
-	margin: auto;
+	margin-left: 15%;
 }
 body::-webkit-scrollbar {
 	width: 12px; /* width of the entire scrollbar */

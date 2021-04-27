@@ -11,8 +11,21 @@
 		background-color: hsl(220, 8%, 15%);
 		width: 100%;
 		padding: 1rem;
-		border: 1px solid $border;
+		margin-left: 0%;
+	}
+	.topnav {
+		height: auto;
+		float: middle;
+		color: $gray;
+		text-align: center;
+		padding: 0.1rem 0.1rem;
+		text-decoration: none;
+		font-size: 0.01rem;
+		width: 100%;
 		margin: auto;
+		position: relative;
+		background-color: $navbg;
+		overflow: hidden;
 	}
 }
 
