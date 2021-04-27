@@ -1,9 +1,14 @@
-@media (max-width: 650px) {
+@media (max-width: 900px) {
 	.sidenav {
 		opacity: 0;
 	}
+
 	.body {
-		background-color: $body;
+		border: 0px solid #666;
+		border-radius: 0px;
+		box-shadow: 0px 0px 0px #999;
+		animation: slideInUp 0.3s ease-in-out;
+		background-color: hsl(220, 8%, 15%);
 		width: 100%;
 		padding: 1rem;
 		border: 1px solid $border;

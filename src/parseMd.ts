@@ -37,7 +37,7 @@ const compiler = new (class Compiler {
 			console.time(cyan(file));
 			const scss = join(this.scssdir, file);
 			const css = join(this.cssdir, file.replace('.scss', '.css'));
-			exec(`yarn sass --sourcemap=none ${scss} ${css}`);
+			exec(`yarn sass ${scss} ${css}`);
 			console.timeEnd(cyan(file));
 		}
 	}
@@ -69,8 +69,6 @@ const compiler = new (class Compiler {
 	async compile() {
 		this.compileScss();
 		this.compileTf();
-		//console.time(green("Formatted"));
-		//exec("npx prettier-eslint --write ./public/**/**", () => console.timeEnd(green("Formatted")));
 	}
 })({
 	scss: join(__dirname, 'scss'),
