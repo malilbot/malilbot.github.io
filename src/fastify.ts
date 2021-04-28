@@ -8,10 +8,22 @@ const port = 3000;
 fastify.register(import('fastify-static'), {
 	root: join(__dirname, '..'),
 });
+
 fastify.get('/', (req, res) => {
 	const bufferIndexHtml = readFileSync(join(__dirname, '..', 'index.html'));
 	res.type('text/html').send(bufferIndexHtml);
 });
+
+fastify.get('/invite', (req, res) => {
+	const bufferIndexHtml = readFileSync(join(__dirname, '..', 'invite.html'));
+	res.type('text/html').send(bufferIndexHtml);
+});
+
+fastify.get('/support', (req, res) => {
+	const bufferIndexHtml = readFileSync(join(__dirname, '..', 'support.html'));
+	res.type('text/html').send(bufferIndexHtml);
+});
+
 fastify.get('/privacy', (req, res) => {
 	const bufferIndexHtml = readFileSync(join(__dirname, '..', 'privacy.html'));
 	res.type('text/html').send(bufferIndexHtml);
@@ -46,6 +58,7 @@ fastify.get('/info', (req, res) => {
 	const bufferIndexHtml = readFileSync(join(__dirname, '..', 'info.html'));
 	res.type('text/html').send(bufferIndexHtml);
 });
+
 console.time(green(`http://localhost:${port} `));
 fastify.listen(port, '0.0.0.0', () =>
 	console.timeEnd(green(`http://localhost:${port} `))

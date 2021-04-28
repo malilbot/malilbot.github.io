@@ -572,7 +572,7 @@
         "affectsGlobalScope": false
       },
       "./src/fastify.ts": {
-        "version": "c8c568a4cae2303f45d904d0948853b7cc44343761b3b6014a5c5a297ac0c045",
+        "version": "f6fce43bbdfe8f031549a6d7b099091fd1142e13ded5a5a1c89cca991a42976b",
         "signature": "524d19d4d2eeb9133c2ab9c703a90737e52bdadad72591d2fb19085ab4f1ad47",
         "affectsGlobalScope": false
       }
