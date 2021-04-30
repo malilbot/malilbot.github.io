@@ -35,7 +35,7 @@
 </blockquote>
 	</div>
 	<div class="underline">
-		<p class="underl"><a href="/privacy">Privacy</a> | <a href="/tos">TOS</a> | <a href="/patchnotes">Patchnotes</a>
+		<p class="underl"><a href="/privacy">Privacy</a> | <a href="/tos">TOS</a> | <a href="/patchnotes">Patchnotes</a> | <a href="/donate">Donate</a>
 		</p>
 	</div>
 </body>

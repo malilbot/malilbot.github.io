@@ -1,16 +1,23 @@
 .topnav {
+	position: absolute;
+	left: 15%;
 	width: 100%;
-	margin: auto;
-	position: sticky;
-	background-color: $navbg;
+	//margin: auto;
+	position: relative;
+	justify-content: center;
+	align-items: center;
+	//margin: auto;
+	//background-color: $navbg;
 	overflow: hidden;
 	a {
 		float: left;
+		border-radius: 25px;
+		background: $navbg;
 		color: $gray;
 		text-align: center;
-		padding: 14px 16px;
+		padding: 2px 40px;
 		text-decoration: none;
-		font-size: 17px;
+		font-size: 20px;
 		&:hover {
 			color: $background;
 		}

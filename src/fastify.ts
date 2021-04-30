@@ -59,6 +59,11 @@ fastify.get('/info', (req, res) => {
 	res.type('text/html').send(bufferIndexHtml);
 });
 
+fastify.get('/donate', (req, res) => {
+	const bufferIndexHtml = readFileSync(join(__dirname, '..', 'donate.html'));
+	res.type('text/html').send(bufferIndexHtml);
+});
+
 console.time(green(`http://localhost:${port} `));
 fastify.listen(port, '0.0.0.0', () =>
 	console.timeEnd(green(`http://localhost:${port} `))

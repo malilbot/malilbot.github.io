@@ -8,15 +8,11 @@
 <body class="text">
 	{{topnav}}
 	<div class="sidenav">
-		<h2>Table of Contents</h2>
 		<a href="#fun">Fun</a>
 		<a href="#general">General</a>
 		<a href="#info">Information</a>
 		<a href="#moderation">Moderation</a>
 		<a href="#utility">Utility</a>
-		<p >
-			<img src="./public/img/nobg.png" class="CommandsMalil" />
-		</p>
 	</div>
 	<div class="body">{{input}}</div>
 </body>

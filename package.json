@@ -7,8 +7,8 @@
     "parsemd": "node src/parseMd.js",
     "start": "node src/fastify.js",
     "build": "yarn tsc",
-    "dev": "nodemon -e scss,tf,as,ts,json --exec \"yarn build && yarn parsemd\"",
-    "site": "nodemon -e scss,tf,as,ts,json --exec \"yarn start && yarn parsemd\""
+    "dev": "nodemon -e scss,tf,as,ts,json,md --exec \"yarn build && yarn parsemd\"",
+    "site": "nodemon -e scss,tf,as,ts,json,md --exec \"yarn start && yarn parsemd\""
   },
   "repository": {
     "type": "git",

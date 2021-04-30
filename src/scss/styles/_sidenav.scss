@@ -1,18 +1,21 @@
 .sidenav {
-	border: 1px solid $border;
+	//border: 1px solid $border;
 	justify-content: center;
 	margin: auto;
 	width: 13.7%;
 	position: fixed;
+	top: 20%;
 	z-index: 1;
-	background-color: #222428;
+	//background-color: #222428;
 	overflow-x: hidden;
 	padding-top: 0%;
 	animation: slideInLeft 0.3s ease-in-out;
 	a {
+		border-radius: 25px;
+		background: $navbg;
 		transition: 500ms linear;
 		top: 60%;
-		padding: 4% 10% 5% 4%;
+		padding: 4% 4% 5% 4%;
 		text-decoration: none;
 		font-size: 20px;
 		color: #818181;
@@ -22,16 +25,7 @@
 			padding: 0px 3%;
 		}
 		&:hover {
-			transform: scale(1.1);
 			color: #f1f1f1;
-		}
-		@keyframes moveToRight {
-			0% {
-				transform: translateX(0px);
-			}
-			100% {
-				transform: translateX(300px);
-			}
 		}
 	}
 }
