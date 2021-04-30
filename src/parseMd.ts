@@ -37,7 +37,7 @@ const compiler = new (class Compiler {
 			console.time(cyan(file));
 			const scss = join(this.scssdir, file);
 			const css = join(this.cssdir, file.replace('.scss', '.css'));
-			exec(`yarn sass ${scss} ${css}`);
+			exec(`yarn sass ${scss} ${css} --style compressed --sourcemap=none`);
 			console.timeEnd(cyan(file));
 		}
 	}

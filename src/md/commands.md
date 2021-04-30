@@ -29,40 +29,37 @@
 
 ### FOR A SHORTER LIST VISIT [THIS](/list)
 
+Prefixes: malil, \@malil, \*(can be changed).  
+Messages are cached for 10 seconds and editing them within that time can make a command trigger.
+
 # Fun
 
-<!--This is a auto generated page to change the contents of this edit the command files themself--><details><summary>america</summary>
+<!--This is a auto generated page to change the contents of this edit the command files themself--><details><summary><span class ="cmdname">america</span><span class ="cmdinfo"> - america something or yourself doesnt work on attachment links only real attachments sorry</span></summary>
 
 ### Aliasses
 
 - america
 - ame
 
-### Information
-
-- america something or yourself doesnt work on attachment links only real attachments sorry
-
 ### Examples
 
 - america @user
-- ame</details>
+- ame
+</details>
 
-<!--This is a auto generated page to change the contents of this edit the command files themself--><details><summary>clap</summary>
+<!--This is a auto generated page to change the contents of this edit the command files themself--><details><summary><span class ="cmdname">clap</span><span class ="cmdinfo"> - 👏Clap👏on👏the👏text.👏</span></summary>
 
 ### Aliasses
 
 - clap
 
-### Information
-
-- 👏Clap👏on👏the👏text.👏
-
 ### Examples
 
 - clap hello world
-- clap how are you today?</details>
+- clap how are you today?
+</details>
 
-<!--This is a auto generated page to change the contents of this edit the command files themself--><details><summary>eightball</summary>
+<!--This is a auto generated page to change the contents of this edit the command files themself--><details><summary><span class ="cmdname">eightball</span><span class ="cmdinfo"> - Find your 8ball</span></summary>
 
 ### Aliasses
 
@@ -70,48 +67,39 @@
 - 8ball
 - ask
 
-### Information
-
-- Find your 8ball
-
 ### Examples
 
 - eightball e?
 - 8ball do you like me?
-- ask Do you like potatos?</details>
+- ask Do you like potatos?
+</details>
 
-<!--This is a auto generated page to change the contents of this edit the command files themself--><details><summary>fact</summary>
+<!--This is a auto generated page to change the contents of this edit the command files themself--><details><summary><span class ="cmdname">fact</span><span class ="cmdinfo"> - Searches the internet for a fact</span></summary>
 
 ### Aliasses
 
 - fact
 
-### Information
-
-- Searches the internet for a fact
-
 ### Examples
 
-- fact</details>
+- fact
+</details>
 
-<!--This is a auto generated page to change the contents of this edit the command files themself--><details><summary>iq</summary>
+<!--This is a auto generated page to change the contents of this edit the command files themself--><details><summary><span class ="cmdname">iq</span><span class ="cmdinfo"> - Uses math to calculate your iq</span></summary>
 
 ### Aliasses
 
 - iq
 - smart
 
-### Information
-
-- Uses math to calculate your iq
-
 ### Examples
 
 - iq
 - iq @user
-- iq rick</details>
+- iq rick
+</details>
 
-<!--This is a auto generated page to change the contents of this edit the command files themself--><details><summary>mock</summary>
+<!--This is a auto generated page to change the contents of this edit the command files themself--><details><summary><span class ="cmdname">mock</span><span class ="cmdinfo"> - Mock a user</span></summary>
 
 ### Aliasses
 
@@ -119,16 +107,13 @@
 - itriedmybest
 - mok
 
-### Information
-
-- Mock a user
-
 ### Examples
 
 - mock
-- mock hello world</details>
+- mock hello world
+</details>
 
-<!--This is a auto generated page to change the contents of this edit the command files themself--><details><summary>pat</summary>
+<!--This is a auto generated page to change the contents of this edit the command files themself--><details><summary><span class ="cmdname">pat</span><span class ="cmdinfo"> - You can pat a minecraft head or a discord user with this command</span></summary>
 
 ### Aliasses
 
@@ -136,49 +121,40 @@
 - patpat
 - pet
 
-### Information
-
-- You can pat a minecraft head or a discord user with this command
-
 ### Examples
 
 - pat
 - pat steve
-- pat @user</details>
+- pat @user
+</details>
 
-<!--This is a auto generated page to change the contents of this edit the command files themself--><details><summary>uwu</summary>
+<!--This is a auto generated page to change the contents of this edit the command files themself--><details><summary><span class ="cmdname">uwu</span><span class ="cmdinfo"> - Honestly dont know what this is</span></summary>
 
 ### Aliasses
 
 - uwu
 - owo
 
-### Information
-
-- Honestly dont know what this is
-
 ### Examples
 
-- Uwu hello owo</details>
+- Uwu hello owo
+</details>
 
-<!--This is a auto generated page to change the contents of this edit the command files themself--><details><summary>fedora</summary>
+<!--This is a auto generated page to change the contents of this edit the command files themself--><details><summary><span class ="cmdname">fedora</span><span class ="cmdinfo"> - Fedora something or yourself doesnt work on attachment links only real attachments sorry</span></summary>
 
 ### Aliasses
 
 - fedora
 
-### Information
-
-- Fedora something or yourself doesnt work on attachment links only real attachments sorry
-
 ### Examples
 
 - fedora
-- fedora @user</details>
+- fedora @user
+</details>
 
 # General
 
-<!--This is a auto generated page to change the contents of this edit the command files themself--><details><summary>asciify</summary>
+<!--This is a auto generated page to change the contents of this edit the command files themself--><details><summary><span class ="cmdname">asciify</span><span class ="cmdinfo"> - Turn a image into a ascii</span></summary>
 
 ### Aliasses
 
@@ -189,24 +165,17 @@
 - asci
 - aci
 
-### Information
-
-- Turn a image into a ascii
-
 ### Examples
 
-- asciify then a attachment</details>
+- asciify then a attachment
+</details>
 
-<!--This is a auto generated page to change the contents of this edit the command files themself--><details><summary>github</summary>
+<!--This is a auto generated page to change the contents of this edit the command files themself--><details><summary><span class ="cmdname">github</span><span class ="cmdinfo"> - Watches github releases from a github repo</span></summary>
 
 ### Aliasses
 
 - github
 - stalk
-
-### Information
-
-- Watches github releases from a github repo
 
 ### Examples
 
@@ -215,9 +184,10 @@
 - github delete
 - github list
 - github add https://github.com/malilbot/malilbot.github.io
-- github set #general</details>
+- github set #general
+</details>
 
-<!--This is a auto generated page to change the contents of this edit the command files themself--><details><summary>help</summary>
+<!--This is a auto generated page to change the contents of this edit the command files themself--><details><summary><span class ="cmdname">help</span><span class ="cmdinfo"> - Show available commands on the bot</span></summary>
 
 ### Aliasses
 
@@ -226,46 +196,37 @@
 - ls
 - commands
 
-### Information
-
-- Show available commands on the bot
-
 ### Examples
 
 - help ping
-- h ping</details>
+- h ping
+</details>
 
-<!--This is a auto generated page to change the contents of this edit the command files themself--><details><summary>ping</summary>
+<!--This is a auto generated page to change the contents of this edit the command files themself--><details><summary><span class ="cmdname">ping</span><span class ="cmdinfo"> - Sends the latency between discord and the bot</span></summary>
 
 ### Aliasses
 
 - ping
 
-### Information
-
-- Sends the latency between discord and the bot
-
 ### Examples
 
-- ping</details>
+- ping
+</details>
 
-<!--This is a auto generated page to change the contents of this edit the command files themself--><details><summary>shorten</summary>
+<!--This is a auto generated page to change the contents of this edit the command files themself--><details><summary><span class ="cmdname">shorten</span><span class ="cmdinfo"> - Makes your link shorter</span></summary>
 
 ### Aliasses
 
 - short
 - shorten
 
-### Information
-
-- Makes your link shorter
-
 ### Examples
 
 - short https://google.com
-- short https://discord.gg/skytils</details>
+- short https://discord.gg/skytils
+</details>
 
-<!--This is a auto generated page to change the contents of this edit the command files themself--><details><summary>userinfo</summary>
+<!--This is a auto generated page to change the contents of this edit the command files themself--><details><summary><span class ="cmdname">userinfo</span><span class ="cmdinfo"> - Get some inf about a user</span></summary>
 
 ### Aliasses
 
@@ -273,28 +234,21 @@
 - u
 - user
 
-### Information
-
-- Get some inf about a user
-
 ### Examples
 
 - userinfo
 - u @user
-- user 336465356304678913</details>
+- user 336465356304678913
+</details>
 
 # Info
 
-<!--This is a auto generated page to change the contents of this edit the command files themself--><details><summary>avatar</summary>
+<!--This is a auto generated page to change the contents of this edit the command files themself--><details><summary><span class ="cmdname">avatar</span><span class ="cmdinfo"> - Display your discord avatar otr other user.</span></summary>
 
 ### Aliasses
 
 - avatar
 - av
-
-### Information
-
-- Display your discord avatar otr other user.
 
 ### Examples
 
@@ -302,54 +256,46 @@
 - avatar @example
 - avatar @example size=512
 - avatar @example format=png
-- avatar @example size=512 format=jpg</details>
+- avatar @example size=512 format=jpg
+</details>
 
-<!--This is a auto generated page to change the contents of this edit the command files themself--><details><summary>credits</summary>
+<!--This is a auto generated page to change the contents of this edit the command files themself--><details><summary><span class ="cmdname">credits</span><span class ="cmdinfo"> - Credits to everyone who has contributed to the bot</span></summary>
 
 ### Aliasses
 
 - credits
 - credit
 
-### Information
-
-- Credits to everyone who has contributed to the bot
-
 ### Examples
 
-- credits</details>
+- credits
+</details>
 
-<!--This is a auto generated page to change the contents of this edit the command files themself--><details><summary>lyrics</summary>
+<!--This is a auto generated page to change the contents of this edit the command files themself--><details><summary><span class ="cmdname">lyrics</span><span class ="cmdinfo"> - Get the lyrics of a song</span></summary>
 
 ### Aliasses
 
 - lyrics
 - lyc
 
-### Information
-
-- Get the lyrics of a song
-
 ### Examples
 
 - lyrics idc
-- lyrics venom</details>
+- lyrics venom
+</details>
 
-<!--This is a auto generated page to change the contents of this edit the command files themself--><details><summary>server</summary>
+<!--This is a auto generated page to change the contents of this edit the command files themself--><details><summary><span class ="cmdname">server</span><span class ="cmdinfo"> - Sends some general info about the discord server</span></summary>
 
 ### Aliasses
 
 - server
 
-### Information
-
-- Sends some general info about the discord server
-
 ### Examples
 
-- server</details>
+- server
+</details>
 
-<!--This is a auto generated page to change the contents of this edit the command files themself--><details><summary>stats</summary>
+<!--This is a auto generated page to change the contents of this edit the command files themself--><details><summary><span class ="cmdname">stats</span><span class ="cmdinfo"> - The Statistic of bot</span></summary>
 
 ### Aliasses
 
@@ -357,46 +303,37 @@
 - st
 - info
 
-### Information
-
-- The Statistic of bot
-
 ### Examples
 
-- stats</details>
+- stats
+</details>
 
-<!--This is a auto generated page to change the contents of this edit the command files themself--><details><summary>todo</summary>
+<!--This is a auto generated page to change the contents of this edit the command files themself--><details><summary><span class ="cmdname">todo</span><span class ="cmdinfo"> - get the todo list of the bot</span></summary>
 
 ### Aliasses
 
 - todo
 
-### Information
-
-- get the todo list of the bot
-
 ### Examples
 
-- todo</details>
+- todo
+</details>
 
-<!--This is a auto generated page to change the contents of this edit the command files themself--><details><summary>vote</summary>
+<!--This is a auto generated page to change the contents of this edit the command files themself--><details><summary><span class ="cmdname">vote</span><span class ="cmdinfo"> - Sends the links you can use to vote for malil</span></summary>
 
 ### Aliasses
 
 - vote
 - votes
 
-### Information
-
-- Sends the links you can use to vote for malil
-
 ### Examples
 
-- vote</details>
+- vote
+</details>
 
 # Moderation
 
-<!--This is a auto generated page to change the contents of this edit the command files themself--><details><summary>Sticker</summary>
+<!--This is a auto generated page to change the contents of this edit the command files themself--><details><summary><span class ="cmdname">Sticker</span><span class ="cmdinfo"> - Should remove all stickers once finished</span></summary>
 
 ### Aliasses
 
@@ -411,31 +348,25 @@
 - nomoresticker
 - quitstickers
 
-### Information
-
-- Should remove all stickers once finished
-
 ### Examples
 
-- nosticker on</details>
+- nosticker on
+</details>
 
-<!--This is a auto generated page to change the contents of this edit the command files themself--><details><summary>ban</summary>
+<!--This is a auto generated page to change the contents of this edit the command files themself--><details><summary><span class ="cmdname">ban</span><span class ="cmdinfo"> - To ban members on this guild</span></summary>
 
 ### Aliasses
 
 - ban
 - bang
 
-### Information
-
-- To ban members on this guild
-
 ### Examples
 
 - ban @member
-- ban @member</details>
+- ban @member
+</details>
 
-<!--This is a auto generated page to change the contents of this edit the command files themself--><details><summary>clear</summary>
+<!--This is a auto generated page to change the contents of this edit the command files themself--><details><summary><span class ="cmdname">clear</span><span class ="cmdinfo"> - Clears messages from chat</span></summary>
 
 ### Aliasses
 
@@ -443,29 +374,23 @@
 - clean
 - purge
 
-### Information
-
-- Clears messages from chat
-
 ### Examples
 
-- clear</details>
+- clear
+</details>
 
-<!--This is a auto generated page to change the contents of this edit the command files themself--><details><summary>clearwarns</summary>
+<!--This is a auto generated page to change the contents of this edit the command files themself--><details><summary><span class ="cmdname">clearwarns</span><span class ="cmdinfo"> - clear a user's warning</span></summary>
 
 ### Aliasses
 
 - clearwarns
 
-### Information
-
-- clear a user's warning
-
 ### Examples
 
-- clearwarns</details>
+- clearwarns
+</details>
 
-<!--This is a auto generated page to change the contents of this edit the command files themself--><details><summary>infractions</summary>
+<!--This is a auto generated page to change the contents of this edit the command files themself--><details><summary><span class ="cmdname">infractions</span><span class ="cmdinfo"> - check a user's warnings</span></summary>
 
 ### Aliasses
 
@@ -473,29 +398,23 @@
 - warns
 - warnings
 
-### Information
-
-- check a user's warnings
-
 ### Examples
 
-- infractions</details>
+- infractions
+</details>
 
-<!--This is a auto generated page to change the contents of this edit the command files themself--><details><summary>kick</summary>
+<!--This is a auto generated page to change the contents of this edit the command files themself--><details><summary><span class ="cmdname">kick</span><span class ="cmdinfo"> - To kick member on this guild</span></summary>
 
 ### Aliasses
 
 - kick
 
-### Information
-
-- To kick member on this guild
-
 ### Examples
 
-- kick @member</details>
+- kick @member
+</details>
 
-<!--This is a auto generated page to change the contents of this edit the command files themself--><details><summary>lock</summary>
+<!--This is a auto generated page to change the contents of this edit the command files themself--><details><summary><span class ="cmdname">lock</span><span class ="cmdinfo"> - To lock a channel</span></summary>
 
 ### Aliasses
 
@@ -505,50 +424,41 @@
 - lockchannel
 - unlockchannel
 
-### Information
-
-- To lock a channel
-
 ### Examples
 
-- lock #general</details>
+- lock #general
+</details>
 
-<!--This is a auto generated page to change the contents of this edit the command files themself--><details><summary>logchannel</summary>
+<!--This is a auto generated page to change the contents of this edit the command files themself--><details><summary><span class ="cmdname">logchannel</span><span class ="cmdinfo"> - A way to log all actions in the Moderation category requires manage server permissions to use</span></summary>
 
 ### Aliasses
 
 - logchannel
 - modlogs
 
-### Information
-
-- A way to log all actions in the Moderation category requires manage server permissions to use
-
 ### Examples
 
 - logchannel
 - logchannel #channel
 - logchannel <channel id>
-- logchannel get</details>
+- logchannel get
+</details>
 
-<!--This is a auto generated page to change the contents of this edit the command files themself--><details><summary>modonly</summary>
+<!--This is a auto generated page to change the contents of this edit the command files themself--><details><summary><span class ="cmdname">modonly</span><span class ="cmdinfo"> - Make a channel modeonly aka only people with manage messages can use commands there</span></summary>
 
 ### Aliasses
 
 - modonly
-
-### Information
-
-- Make a channel modeonly aka only people with manage messages can use commands there
 
 ### Examples
 
 - modonly
 - modonly #channel
 - modonly <channel id>
-- modonly get</details>
+- modonly get
+</details>
 
-<!--This is a auto generated page to change the contents of this edit the command files themself--><details><summary>mute</summary>
+<!--This is a auto generated page to change the contents of this edit the command files themself--><details><summary><span class ="cmdname">mute</span><span class ="cmdinfo"> - Use to mute members</span></summary>
 
 ### Aliasses
 
@@ -557,109 +467,88 @@
 - muterole
 - mutedrole
 
-### Information
-
-- Use to mute members
-
 ### Examples
 
 - mute @member
 - mute @member 1d
-- mute 2d @member</details>
+- mute 2d @member
+</details>
 
-<!--This is a auto generated page to change the contents of this edit the command files themself--><details><summary>nick</summary>
+<!--This is a auto generated page to change the contents of this edit the command files themself--><details><summary><span class ="cmdname">nick</span><span class ="cmdinfo"> - Change the nickname of a user</span></summary>
 
 ### Aliasses
 
 - nick
 - changenick
 
-### Information
-
-- Change the nickname of a user
-
 ### Examples
 
-- nick</details>
+- nick
+</details>
 
-<!--This is a auto generated page to change the contents of this edit the command files themself--><details><summary>rules</summary>
+<!--This is a auto generated page to change the contents of this edit the command files themself--><details><summary><span class ="cmdname">rules</span><span class ="cmdinfo"> - A easy way to get some rules in your server</span></summary>
 
 ### Aliasses
 
 - rules
 
-### Information
-
-- A easy way to get some rules in your server
-
 ### Examples
 
 - Rules 1
 - rules 2
-- rules 3</details>
+- rules 3
+</details>
 
-<!--This is a auto generated page to change the contents of this edit the command files themself--><details><summary>slowmode</summary>
+<!--This is a auto generated page to change the contents of this edit the command files themself--><details><summary><span class ="cmdname">slowmode</span><span class ="cmdinfo"> - To change the slowmode of a channel</span></summary>
 
 ### Aliasses
 
 - slowmode
 - sm
 
-### Information
-
-- To change the slowmode of a channel
-
 ### Examples
 
-- slowmode</details>
+- slowmode
+</details>
 
-<!--This is a auto generated page to change the contents of this edit the command files themself--><details><summary>unmute</summary>
+<!--This is a auto generated page to change the contents of this edit the command files themself--><details><summary><span class ="cmdname">unmute</span><span class ="cmdinfo"> - To unmute a user</span></summary>
 
 ### Aliasses
 
 - unmute
 
-### Information
-
-- To unmute a user
-
 ### Examples
 
-- unmute</details>
+- unmute
+</details>
 
-<!--This is a auto generated page to change the contents of this edit the command files themself--><details><summary>warn</summary>
+<!--This is a auto generated page to change the contents of this edit the command files themself--><details><summary><span class ="cmdname">warn</span><span class ="cmdinfo"> - To warn a user</span></summary>
 
 ### Aliasses
 
 - warn
 
-### Information
-
-- To warn a user
-
 ### Examples
 
-- warn</details>
+- warn
+</details>
 
 # Utility
 
-<!--This is a auto generated page to change the contents of this edit the command files themself--><details><summary>disable</summary>
+<!--This is a auto generated page to change the contents of this edit the command files themself--><details><summary><span class ="cmdname">disable</span><span class ="cmdinfo"> - A command to disable/enable commands.</span></summary>
 
 ### Aliasses
 
 - disable
 - enable
 
-### Information
-
-- A command to disable/enable commands.
-
 ### Examples
 
 - disable ban
-- enable ban</details>
+- enable ban
+</details>
 
-<!--This is a auto generated page to change the contents of this edit the command files themself--><details><summary>clone</summary>
+<!--This is a auto generated page to change the contents of this edit the command files themself--><details><summary><span class ="cmdname">clone</span><span class ="cmdinfo"> - Yoinks a emoji from a server</span></summary>
 
 ### Aliasses
 
@@ -668,125 +557,98 @@
 - steal
 - emo
 
-### Information
-
-- Yoinks a emoji from a server
-
 ### Examples
 
-- clone</details>
+- clone
+</details>
 
-<!--This is a auto generated page to change the contents of this edit the command files themself--><details><summary>decode</summary>
+<!--This is a auto generated page to change the contents of this edit the command files themself--><details><summary><span class ="cmdname">decode</span><span class ="cmdinfo"> - Decode some stuff</span></summary>
 
 ### Aliasses
 
 - decode
 
-### Information
-
-- Decode some stuff
-
 ### Examples
 
-- decode</details>
+- decode
+</details>
 
-<!--This is a auto generated page to change the contents of this edit the command files themself--><details><summary>encode</summary>
+<!--This is a auto generated page to change the contents of this edit the command files themself--><details><summary><span class ="cmdname">encode</span><span class ="cmdinfo"> - Encode your message</span></summary>
 
 ### Aliasses
 
 - encode
 
-### Information
-
-- Encode your message
-
 ### Examples
 
-- encode</details>
+- encode
+</details>
 
-<!--This is a auto generated page to change the contents of this edit the command files themself--><details><summary>invite</summary>
+<!--This is a auto generated page to change the contents of this edit the command files themself--><details><summary><span class ="cmdname">invite</span><span class ="cmdinfo"> - Invite malil to your server as well</span></summary>
 
 ### Aliasses
 
 - invite
 
-### Information
-
-- Invite malil to your server as well
-
 ### Examples
 
-- invite</details>
+- invite
+</details>
 
-<!--This is a auto generated page to change the contents of this edit the command files themself--><details><summary>poll</summary>
+<!--This is a auto generated page to change the contents of this edit the command files themself--><details><summary><span class ="cmdname">poll</span><span class ="cmdinfo"> - Share your questions</span></summary>
 
 ### Aliasses
 
 - poll
 
-### Information
-
-- Share your questions
-
 ### Examples
 
-- poll</details>
+- poll
+</details>
 
-<!--This is a auto generated page to change the contents of this edit the command files themself--><details><summary>prefix</summary>
+<!--This is a auto generated page to change the contents of this edit the command files themself--><details><summary><span class ="cmdname">prefix</span><span class ="cmdinfo"> - Set the prefix of malil in your server</span></summary>
 
 ### Aliasses
 
 - prefix
 
-### Information
-
-- Set the prefix of malil in your server
-
 ### Examples
 
-- prefix</details>
+- prefix
+</details>
 
-<!--This is a auto generated page to change the contents of this edit the command files themself--><details><summary>quote</summary>
+<!--This is a auto generated page to change the contents of this edit the command files themself--><details><summary><span class ="cmdname">quote</span><span class ="cmdinfo"> - Quotes a message</span></summary>
 
 ### Aliasses
 
 - quote
 - qt
 
-### Information
-
-- Quotes a message
-
 ### Examples
 
-- !quote https://canary.discord.com/channels/748956745409232945/777886689300709406/777889131829264384</details>
+- !quote https://canary.discord.com/channels/748956745409232945/777886689300709406/777889131829264384
+</details>
 
-<!--This is a auto generated page to change the contents of this edit the command files themself--><details><summary>raw</summary>
+<!--This is a auto generated page to change the contents of this edit the command files themself--><details><summary><span class ="cmdname">raw</span><span class ="cmdinfo"> - Share your questions</span></summary>
 
 ### Aliasses
 
 - raw
 
-### Information
-
-- Share your questions
-
 ### Examples
 
-- raw</details>
+- raw
+</details>
 
-<!--This is a auto generated page to change the contents of this edit the command files themself--><details><summary>starboard</summary>
+<!--This is a auto generated page to change the contents of this edit the command files themself--><details><summary><span class ="cmdname">starboard</span><span class ="cmdinfo"> - Create a starboard for the server</span></summary>
 
 ### Aliasses
 
 - starboard
 
-### Information
-
-- Create a starboard for the server
-
 ### Examples
 
 - starboard channel
 - starboard count
-- starboard emoji</details>
+- starboard emoji
+</details>
