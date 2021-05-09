@@ -7,8 +7,8 @@ module.exports = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'skyblockdev', // Usually your GitHub org/user name.
-  projectName: 'malil', // Usually your repo name.
+  organizationName: 'malilbot', // Usually your GitHub org/user name.
+  projectName: 'malilbot.github.io', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'Malil',
@@ -67,10 +67,7 @@ module.exports = {
         {
           title: 'More',
           items: [
-            {
-              label: 'Blog',
-              to: '/blog',
-            },
+
             {
               label: 'GitHub',
               href: 'https://github.com/facebook/docusaurus',
@@ -91,12 +88,7 @@ module.exports = {
           editUrl:
             'https://github.com/malilbot/malilbot.github.io/edit/master/website/',
         },
-        blog: {
-          showReadingTime: true,
-          // Please change this to your repo.
-          editUrl:
-            'https://github.com/malilbot/malilbot.github.io/edit/master/website/blog/',
-        },
+
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
