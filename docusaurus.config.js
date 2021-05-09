@@ -24,6 +24,11 @@ module.exports = {
           label: 'Docs',
         },
         {
+          href: 'https://discord.gg/KkMKCchJb8',
+          label: 'Support',
+          position: 'right',
+        },
+        {
           href: 'https://discord.com/oauth2/authorize?client_id=749020331187896410&permissions=117824&scope=bot%20applications.commands',
           label: 'Invite',
           position: 'right',

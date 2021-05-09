@@ -29,7 +29,7 @@ export default function Home() {
   return (
     <Layout
       title={`Home page`}
-      description="Description will go into a meta tag in <head />">
+      description="Malil the all in one discord bot <head />">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
