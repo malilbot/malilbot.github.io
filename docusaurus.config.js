@@ -6,11 +6,12 @@ module.exports = {
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/favicon.svg',
   organizationName: 'malilbot', // Usually your GitHub org/user name.
   projectName: 'malilbot.github.io', // Usually your repo name.
   themeConfig: {
     navbar: {
+
       title: 'Malil',
       logo: {
         alt: 'Malil logo',

@@ -22,12 +22,11 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Fast',
-    Svg: require('../../static/img/documentation.svg').default,
+    title: 'Memes',
+    Svg: require('../../static/img/fedora.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Malil has tons of fun commmands to mess around with
       </>
     ),
   },
