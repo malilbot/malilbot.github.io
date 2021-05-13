@@ -73,10 +73,17 @@ module.exports = {
         {
           title: 'More',
           items: [
-
             {
               label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              href: 'https://github.com/malilbot/malil',
+            },
+            {
+              label: 'Terms',
+              href: 'https://malilbot.github.io/terms',
+            },
+            {
+              label: 'Privacy',
+              href: 'https://malilbot.github.io/privacy',
             },
           ],
         },
