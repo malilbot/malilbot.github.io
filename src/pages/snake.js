@@ -1,6 +1,6 @@
 import React from 'react';
 import '../css/SnakeGame.css';
-import GameOver from '../components/GameOver';
+import GameOver from '../components/GameOver.js';
 
 class SnakeGame extends React.Component {
 	constructor(props) {
@@ -41,7 +41,6 @@ class SnakeGame extends React.Component {
 		let width =
 			document.getElementById('GameBoard').parentElement.offsetWidth *
 			(percentageWidth / 100);
-
 		width -= width % 30;
 		if (width < 30) width = 30;
 		let height = (width / 3) * 2;
