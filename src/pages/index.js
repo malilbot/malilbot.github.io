@@ -17,7 +17,7 @@ function HomepageHeader() {
 				<div className={styles.buttons}>
 					<p>
 						<Link
-							className="buttonWrapper button button--secondary button--lg"
+							className={clsx("button buttonWrapper button--secondary button--lg buttons ", styles.button)}
 							to="/docs/intro"
 						>
 							Malil documentation
@@ -25,7 +25,7 @@ function HomepageHeader() {
 					</p>
 					<p></p>
 					<p>
-						<Link className="button button--secondary button--lg" to="/invite">
+						<Link className={clsx("button buttonWrapper button--secondary button--lg buttons ", styles.button)} to="/invite">
 							Invite Malil
 						</Link>
 					</p>

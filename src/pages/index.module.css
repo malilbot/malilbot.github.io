@@ -6,6 +6,7 @@
  */
 
 .heroBanner {
+	color: white;
 	padding: 4rem 0;
 	text-align: center;
 	position: relative;
@@ -19,7 +20,20 @@
 }
 
 .buttons {
+	color: white;
 	display: flex;
 	align-items: center;
 	justify-content: center;
+}
+.button {
+	background-color: #366abc;
+	color: white !important;
+	display: inline-block;
+	border-radius: 10px;
+	border: 4px double #3e454e;
+	color: #21252b;
+	text-align: center;
+
+	cursor: pointer;
+	margin: 5px;
 }
