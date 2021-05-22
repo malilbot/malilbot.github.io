@@ -1,77 +1,140 @@
-
-## Utility
 ### disable
+
 A command to disable/enable commands.
+
 #### Aliasses
- * disable
- * enable 
+
+- disable
+- enable
+
 #### Examples
- * disable ban
- * enable ban
+
+- disable ban
+- enable ban
+
 ### clone
+
 Yoinks a emoji from a server
+
 #### Aliasses
- * clone
- * yoink
- * steal
- * emo 
+
+- clone
+- yoink
+- steal
+- emo
+
 #### Examples
- * clone
+
+- clone
+
 ### decode
+
 Decode some stuff
+
 #### Aliasses
- * decode 
+
+- decode
+
 #### Examples
- * decode
+
+- decode
+
 ### encode
+
 Encode your message
+
 #### Aliasses
- * encode 
+
+- encode
+
 #### Examples
- * encode
+
+- encode
+
 ### giveaway
+
 Encode your message
+
 #### Aliasses
- * giveaway 
+
+- giveaway
+
 #### Examples
- * encode
+
+- encode
+
 ### invite
+
 Invite malil to your server as well
+
 #### Aliasses
- * invite 
+
+- invite
+
 #### Examples
- * invite
+
+- invite
+
 ### poll
+
 Share your questions
+
 #### Aliasses
- * poll 
+
+- poll
+
 #### Examples
- * poll
+
+- poll
+
 ### prefix
+
 Set the prefix of malil in your server
+
 #### Aliasses
- * prefix
- * setprefix 
+
+- prefix
+- setprefix
+
 #### Examples
- * prefix
+
+- prefix
+
 ### quote
+
 Quotes a message
+
 #### Aliasses
- * quote
- * qt 
+
+- quote
+- qt
+
 #### Examples
- * !quote https://canary.discord.com/channels/748956745409232945/777886689300709406/777889131829264384
+
+- !quote https://canary.discord.com/channels/748956745409232945/777886689300709406/777889131829264384
+
 ### raw
+
 Share your questions
+
 #### Aliasses
- * raw 
+
+- raw
+
 #### Examples
- * raw
+
+- raw
+
 ### starboard
+
 Create a starboard for the server
+
 #### Aliasses
- * starboard 
+
+- starboard
+
 #### Examples
- * starboard channel
- * starboard count
- * starboard emoji
+
+- starboard channel
+- starboard count
+- starboard emoji

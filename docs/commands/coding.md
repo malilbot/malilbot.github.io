@@ -1,24 +1,39 @@
-
-## coding
 ### deno
+
 Searches the deno package repository for your deno package
+
 #### Aliasses
- * deno 
+
+- deno
+
 #### Examples
- * deno discorddeno
+
+- deno discorddeno
+
 ### githubuser
+
 Gives information about a github user
+
 #### Aliasses
- * githubuser
- * ghu
- * githubu 
+
+- githubuser
+- ghu
+- githubu
+
 #### Examples
- * github skyblockdev
+
+- github skyblockdev
+
 ### npm
+
 Searches the npm repositorys for the requested npm package
+
 #### Aliasses
- * npm
- * node
- * nodejs 
+
+- npm
+- node
+- nodejs
+
 #### Examples
- * npm discord.js
+
+- npm discord.js

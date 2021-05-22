@@ -1,83 +1,140 @@
-
-## Fun
 ### america
+
 america something or yourself doesnt work on attachment links only real attachments sorry
+
 #### Aliasses
- * america
- * ame 
+
+- america
+- ame
+
 #### Examples
- * america @user
- * ame
+
+- america @user
+- ame
+
 ### clap
+
 👏Clap👏on👏the👏text.👏
+
 #### Aliasses
- * clap 
+
+- clap
+
 #### Examples
- * clap hello world
- * clap how are you today?
+
+- clap hello world
+- clap how are you today?
+
 ### 8ball
+
 Find your 8ball
+
 #### Aliasses
- * eightball
- * 8ball
- * ask 
+
+- eightball
+- 8ball
+- ask
+
 #### Examples
- * eightball e?
- * 8ball do you like me?
- * ask Do you like potatos?
+
+- eightball e?
+- 8ball do you like me?
+- ask Do you like potatos?
+
 ### fact
+
 Searches the internet for a fact
+
 #### Aliasses
- * fact 
+
+- fact
+
 #### Examples
- * fact
+
+- fact
+
 ### iqtest
+
 Uses math to calculate your iq
+
 #### Aliasses
- * iq
- * smart
- * iqtest 
+
+- iq
+- smart
+- iqtest
+
 #### Examples
- * iq
- * iq @user
- * iq rick
+
+- iq
+- iq @user
+- iq rick
+
 ### mock
+
 Mock a user
+
 #### Aliasses
- * mock
- * itriedmybest
- * mok 
+
+- mock
+- itriedmybest
+- mok
+
 #### Examples
- * mock
- * mock hello world
+
+- mock
+- mock hello world
+
 ### pat
+
 You can pat a minecraft head or a discord user with this command
+
 #### Aliasses
- * pat
- * patpat
- * pet 
+
+- pat
+- patpat
+- pet
+
 #### Examples
- * pat
- * pat steve
- * pat @user
+
+- pat
+- pat steve
+- pat @user
+
 ### uwu
+
 Honestly dont know what this is
+
 #### Aliasses
- * uwu
- * owo 
+
+- uwu
+- owo
+
 #### Examples
- * Uwu hello owo
+
+- Uwu hello owo
+
 ### youtube
+
 Honestly dont know what this is
+
 #### Aliasses
- * youtube
- * yt 
+
+- youtube
+- yt
+
 #### Examples
- * youtube #vc
+
+- youtube #vc
+
 ### fedora
+
 Fedora something or yourself doesnt work on attachment links only real attachments sorry
+
 #### Aliasses
- * fedora 
+
+- fedora
+
 #### Examples
- * fedora
- * fedora @user
+
+- fedora
+- fedora @user
