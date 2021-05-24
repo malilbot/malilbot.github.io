@@ -1,12 +1,21 @@
 import React from 'react';
 import clsx from 'clsx';
 import Layout from '@theme/Layout';
-import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import styles from './index.module.css';
 import HomepageFeatures from '../components/HomepageFeatures';
+import { makeStyles } from '@material-ui/core/styles';
+import Button from '@material-ui/core/Button';
 
+const useStyles = makeStyles((theme) => ({
+	root: {
+		'& > *': {
+			margin: theme.spacing(1),
+		},
+	},
+}));
 function HomepageHeader() {
+	const classes = useStyles();
 	const { siteConfig } = useDocusaurusContext();
 	return (
 		<header className={clsx('hero hero--primary', styles.heroBanner)}>
@@ -14,20 +23,17 @@ function HomepageHeader() {
 				<h1 className="hero__title">{siteConfig.title}</h1>
 				<p className="hero__subtitle">{siteConfig.tagline}</p>
 
-				<div className={styles.buttons}>
+				<div className={classes.root}>
 					<p>
-						<Link
-							className={clsx("button buttonWrapper button--secondary button--lg buttons ", styles.button)}
-							to="/docs/intro"
-						>
+						<Button variant="contained" color="primary" href="/docs/intro">
 							Malil documentation
-						</Link>
+						</Button>
 					</p>
-					<p></p>
+
 					<p>
-						<Link className={clsx("button buttonWrapper button--secondary button--lg buttons ", styles.button)} to="/invite">
+						<Button variant="contained" color="primary" href="/invite">
 							Invite Malil
-						</Link>
+						</Button>
 					</p>
 				</div>
 			</div>
