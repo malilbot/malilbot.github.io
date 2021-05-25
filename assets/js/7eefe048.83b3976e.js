@@ -1,0 +1,1 @@
+(self.webpackChunkmalilbot_github_io=self.webpackChunkmalilbot_github_io||[]).push([[169],{5938:function(e,t,i){"use strict";i.r(t),i.d(t,{default:function(){return o}});var n=i(7294),l=i(4656);function o(){return n.createElement(l.Z,{title:"Home page",description:"Malil the all in one discord bot <head />"})}}}]);
