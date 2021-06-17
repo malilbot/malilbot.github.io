@@ -7,13 +7,12 @@ What data do we store and why?
 
 ### User specific data:
 
-Your discord user id.
-To store your iq.
+User and guild ids
 
 ### How do we use your data?
 
 We use this data to:  
-To display access data about the iq command
+We store users discord ids to keep track of the infractions they have and the "iqpoints", this data is used for moderation commands and normal commands to function, we store guild ids to keep track of the prefix each guild has and the moderation actions
 
 ### How do we store your data?
 
