@@ -28,8 +28,7 @@ Your iq command will reset
 
 ### That said; If you want that we erase your data you have the following options:
 
-Send us a request. We will remove all your entries from the database. However, this option might take some time since we need to manually trigger this action (up to 5 working days).  
-Also this will only remove your ID from our database. It will not refresh events that you have signed up for! This means that you are listed in those events until the event gets reloaded (for example a new user signs up).
+Send us a request. We will remove all your entries from the database. However, this option might take some time since we need to manually trigger this action (up to 5 working days).
 
 ---
 
