@@ -1,8 +1,8 @@
-## slowmode
-Set the slowmode of a channel
-
-## kick
+### kick
 Kick users from your server
 
-## ban
+### ban
 Ban users from your server
+
+### slowmode
+Set the slowmode of a channel

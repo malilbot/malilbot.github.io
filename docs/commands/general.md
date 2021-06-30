@@ -1,13 +1,14 @@
-## invite
+### invite
 Invite Malil to your server
 
-## help
-malil help command
-
-## github
+### github
 stalk github repos for updates
 
-## support
+### support
 Support server :)
 
-## avatar
+### avatar
+
+
+### help
+malil help command

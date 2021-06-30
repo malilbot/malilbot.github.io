@@ -1,35 +1,35 @@
-## ddoc
-Searches the discord deno docs
+### maven
+Search for maven packages to use in your projects
 
-## npm
-Search for a npm package
-
-## crate
-Search for a crate package
-
-## deno
-Search for a deno package
-
-## natico
-Natico docs
-
-## dart
+### dart
 Search for a 🐦 flutter package
 
-## apt
-Searches the apt repositorys for apt packages
-
-## golang
-Search for a golang module
-
-## pip
+### pip
 Search for a pip package
 
-## aur
+### aur
 Find aur packages for you
 
-## hackage
+### crate
+Search for a crate package
+
+### golang
+Search for a golang module
+
+### hackage
 Search for haskell packages to use in your projects
 
-## maven
-Search for maven packages to use in your projects
+### deno
+Search for a deno package
+
+### natico
+Natico docs
+
+### ddoc
+Searches the discord deno docs
+
+### npm
+Search for a npm package
+
+### apt
+Searches the apt repositorys for apt packages
