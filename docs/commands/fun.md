@@ -1,43 +1,42 @@
-### mock
-Mocking rn
-
-### fedora
-fedora stuff
-
-### shorten
-Shorten
-
 ### america
 ametica?
-
-### pat
-petpetpet
-
-### encode
-Decode things ig
-
-### iqtest
-iqtest
 
 ### asciify
 asiify your avatar or picture
 
-### youtube
-
+### blame
+Ultimate crab
 
 ### crab
 Ultimate crab
 
+### encode
+Decode things ig
+
 ### fact
 
 
-### math
-do some math
+### fedora
+fedora stuff
 
-### blame
-Ultimate crab
+### iqtest
+iqtest
 
 ### makememe
 Make a meme
 Image | uppertText | bottomText
 **You need a image as attachment**
+
+### math
+do some math
+
+### mock
+Mocking rn
+
+### pat
+petpetpet
+
+### shorten
+Shorten
+
+### youtube
