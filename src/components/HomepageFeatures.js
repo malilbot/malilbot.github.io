@@ -5,7 +5,6 @@ import styles from './HomepageFeatures.module.css';
 const FeatureList = [
   {
     title: 'Tons of features',
-    Svg: require('../../static/img/youtube.svg').default,
     description: (
       <>
         Malil comes with features you dont see in any other bot.
@@ -14,7 +13,6 @@ const FeatureList = [
   },
   {
     title: 'Great documentation',
-    Svg: require('../../static/img/documentation.svg').default,
     description: (
       <>
         Malil is a bot with great documentation and support.
@@ -22,22 +20,18 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Memes',
-    Svg: require('../../static/img/fedora.svg').default,
+    title: 'Utility',
     description: (
       <>
-        Malil has tons of fun commmands to mess around with
+        Malil has lots of utility commands that may come useful.
       </>
     ),
   },
 ];
 
-function Feature({ Svg, title, description }) {
+function Feature({ title, description }) {
   return (
     <div className={clsx('col col--4')}>
-      <div className="text--center">
-        <Svg className={styles.featureSvg} alt={title} />
-      </div>
       <div className="text--center padding-horiz--md">
         <h3>{title}</h3>
         <p>{description}</p>

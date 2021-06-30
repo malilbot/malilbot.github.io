@@ -11,7 +11,6 @@ module.exports = {
   projectName: 'malilbot.github.io', // Usually your repo name.
   themeConfig: {
     navbar: {
-
       title: 'Malil',
       logo: {
         alt: 'Malil logo',
@@ -97,7 +96,6 @@ module.exports = {
       {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          // Please change this to your repo.
           editUrl:
             'https://github.com/malilbot/malilbot.github.io/edit/master/website/',
         },
@@ -108,4 +106,5 @@ module.exports = {
       },
     ],
   ],
+
 };
