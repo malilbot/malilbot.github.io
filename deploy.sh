@@ -1,0 +1,2 @@
+GITHUB_USER=SkyBlockDev
+yarn deploy
