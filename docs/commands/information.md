@@ -5,7 +5,7 @@ Sends some stats about a user github profile
 Ping the bot
 
 ### raw
-
+sends the message with raw text
 
 ### server
 Displays some info about your discord
