@@ -11,9 +11,8 @@ Display a tag and delete the original send message
 Display a rawtag
 
 ### reactionroles
-
-syntax: `title` | `Description` (Use 
- for new lines) | `roleId emoji` | `roleId emoji` | `roleId emoji`
+(Use \n for new lines)
+syntax: `title` | `Description`  | `roleId emoji` | `roleId emoji` | `roleId emoji`
 MAX 5 roles, description gets cut after 1024 chracters
 
 ### tag
