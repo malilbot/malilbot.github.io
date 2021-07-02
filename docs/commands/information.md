@@ -45,11 +45,3 @@ Displays some basic info about a user
 ![img](https://raw.githubusercontent.com/malilbot/backend/main/images/USERINFO.png)
 
 </div>
-
-<div>
-
-### vote
-Vote for the bot
-![img](https://raw.githubusercontent.com/malilbot/backend/main/images/VOTE.png)
-
-</div>
