@@ -8,7 +8,15 @@ Add a tag
 
 <div>
 
-### deletesuggestion
+### deletetag
+Add a tag
+![img](https://raw.githubusercontent.com/malilbot/backend/main/images/DELETETAG.png)
+
+</div>
+
+<div>
+
+### deniedchannel
 
 
 
@@ -16,9 +24,9 @@ Add a tag
 
 <div>
 
-### deletetag
-Add a tag
-![img](https://raw.githubusercontent.com/malilbot/backend/main/images/DELETETAG.png)
+### denysuggestion
+
+
 
 </div>
 
