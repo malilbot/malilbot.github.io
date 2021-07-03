@@ -8,6 +8,14 @@ Ban users from your server
 
 <div>
 
+### clearlogs
+
+
+
+</div>
+
+<div>
+
 ### kick
 Kick users from your server
 
@@ -16,8 +24,24 @@ Kick users from your server
 
 <div>
 
+### modlogs
+
+
+
+</div>
+
+<div>
+
 ### slowmode
 Set the slowmode of a channel
+
+
+</div>
+
+<div>
+
+### warn
+
 
 
 </div>
