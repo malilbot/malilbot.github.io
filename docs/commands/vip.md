@@ -8,6 +8,14 @@ Add a tag
 
 <div>
 
+### deletesuggestion
+
+
+
+</div>
+
+<div>
+
 ### deletetag
 Add a tag
 ![img](https://raw.githubusercontent.com/malilbot/backend/main/images/DELETETAG.png)
@@ -42,6 +50,22 @@ MAX 5 roles, description gets cut after 1024 chracters
 
 <div>
 
+### suggestion
+
+
+
+</div>
+
+<div>
+
+### suggestionschannel
+
+
+
+</div>
+
+<div>
+
 ### tag
 Display a tag
 ![img](https://raw.githubusercontent.com/malilbot/backend/main/images/TAG.png)
@@ -60,6 +84,14 @@ Display all tags
 
 ### temprole
 Give a user a role temporaily
+
+
+</div>
+
+<div>
+
+### top
+
 
 
 </div>
