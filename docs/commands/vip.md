@@ -24,14 +24,6 @@ Add a tag
 
 <div>
 
-### denysuggestion
-
-
-
-</div>
-
-<div>
-
 ### dtag
 Display a tag and delete the original send message
 ![img](https://raw.githubusercontent.com/malilbot/backend/main/images/DTAG.png)
@@ -58,30 +50,6 @@ MAX 5 roles, description gets cut after 1024 chracters
 
 <div>
 
-### suggest
-
-
-
-</div>
-
-<div>
-
-### suggestion
-
-
-
-</div>
-
-<div>
-
-### suggestionschannel
-
-
-
-</div>
-
-<div>
-
 ### tag
 Display a tag
 ![img](https://raw.githubusercontent.com/malilbot/backend/main/images/TAG.png)
@@ -100,14 +68,6 @@ Display all tags
 
 ### temprole
 Give a user a role temporaily
-
-
-</div>
-
-<div>
-
-### top
-
 
 
 </div>
