@@ -16,14 +16,6 @@ Add a tag
 
 <div>
 
-### deniedchannel
-
-
-
-</div>
-
-<div>
-
 ### dtag
 Display a tag and delete the original send message
 ![img](https://raw.githubusercontent.com/malilbot/backend/main/images/DTAG.png)

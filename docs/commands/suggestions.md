@@ -1,5 +1,21 @@
 <div>
 
+### acceptedchannel
+
+
+
+</div>
+
+<div>
+
+### deniedchannel
+
+
+
+</div>
+
+<div>
+
 ### denysuggestion
 
 
@@ -9,6 +25,14 @@
 <div>
 
 ### editsuggestion
+
+
+
+</div>
+
+<div>
+
+### silentdelete
 
 
 
