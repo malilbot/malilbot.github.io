@@ -1,5 +1,13 @@
 <div>
 
+### accept
+
+
+
+</div>
+
+<div>
+
 ### acceptedchannel
 
 
@@ -65,7 +73,7 @@
 <div>
 
 ### top
-
+Displays the top suggestions in this guild
 
 
 </div>
