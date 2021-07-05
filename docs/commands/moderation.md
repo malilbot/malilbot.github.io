@@ -32,6 +32,14 @@ Kick users from your server
 
 <div>
 
+### role
+
+
+
+</div>
+
+<div>
+
 ### slowmode
 Set the slowmode of a channel
 
