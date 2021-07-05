@@ -33,8 +33,7 @@ Display a rawtag
 <div>
 
 ### reactionroles
-(Use 
- for new lines)
+(Use \n for new lines)
 syntax: `title` | `Description`  | `roleId emoji` | `roleId emoji` | `roleId emoji`
 MAX 5 roles, description gets cut after 1024 chracters
 ![img](https://raw.githubusercontent.com/malilbot/backend/main/images/REACTIONROLES.png)

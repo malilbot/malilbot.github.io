@@ -9,7 +9,7 @@ Ban users from your server
 <div>
 
 ### clearlogs
-clearlogs a user
+
 
 
 </div>
@@ -25,7 +25,7 @@ Kick users from your server
 <div>
 
 ### modlogs
-modlogs a user
+
 
 
 </div>
@@ -41,7 +41,7 @@ Set the slowmode of a channel
 <div>
 
 ### warn
-warn a user
+
 
 
 </div>
