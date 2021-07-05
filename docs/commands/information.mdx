@@ -1,0 +1,24 @@
+import module from "./information.json";
+export const Feature = ({ name, description, image }) => {
+  return (
+    <div>
+      <div>
+        <h3>{name}</h3>
+        <p>{description}</p>
+        {image ? <img src={image} alt={name} className="text--center" /> : null}
+      </div>
+      {image ? <br /> : null}
+      {image ? <br /> : null}
+      <br />
+    </div>
+  );
+};
+export default function Module() {
+  return (
+    <div>
+      {module.map((x, y) => (
+        <Feature key={y} {...x} />
+      ))}
+    </div>
+  );
+}
