@@ -1,11 +1,7 @@
-### Dont use more than 30 commands in 20 mins
+### Using malil to say racist or mean things is not allowed
 
-doing so will result in a 24 hour ban and a permanent ban if it wasn't a accident ( Apealable )
+Meaning saying anything racist/homophobic get you banned from using malil
 
-### Using malil to say racist or mean stuff is not allowed
+### Dont spam commands
 
-doing so will result in a ban from using malil
-
-### Tos may change at any time
-
-meaning that if you do something with the bot that we dont like we can blacklist you
+This includes but is not limited to spam making suggestions spamming commands

@@ -11,8 +11,8 @@ User and guild ids
 
 ### How do we use your data?
 
-We use this data to:  
-We store users discord ids to keep track of the infractions they have and the "iqpoints", this data is used for moderation commands and normal commands to function, we store guild ids to keep track of the prefix each guild has and the moderation actions
+We use this data to:
+to keep track of suggestions, tags, prefix, iqpoints, moderation actions and temp roles this data is needed for some commands to work (properly)
 
 ### How do we store your data?
 
@@ -23,8 +23,7 @@ We store the data on a raspberry pi in the netherlands
 ### Can I delete my data?
 
 In short: Yes!  
-However, we want to point out that your data is crucial for the bot to operate correctly. If you, for what ever reason, decide that you want your **data deleted**  
-Your iq command will reset
+However, we want to point out that your data is crucial for the bot to operate correctly. If you, for what ever reason, decide that you want your **data deleted** all your stats will be gone.
 
 ### That said; If you want that we erase your data you have the following options:
 
