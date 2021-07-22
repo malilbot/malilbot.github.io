@@ -24,7 +24,7 @@ module.exports = {
 					label: 'Docs',
 				},
 				{
-					href: 'https://discord.gg/KkMKCchJb8',
+					href: 'https://discord.gg/zwUQGAG4cP',
 					label: 'Support',
 					position: 'right',
 				},
@@ -57,7 +57,7 @@ module.exports = {
 					items: [
 						{
 							label: 'Discord',
-							href: 'https://discord.gg/KkMKCchJb8',
+							href: 'https://discord.gg/zwUQGAG4cP',
 						},
 						{
 							label: 'Top.gg',
